@@ -3,6 +3,6 @@ We worked with Data Head Axel McCallum at Department of Education, Argentina to 
 
 Here are a few selections of the outcome from the [writeup](https://github.com/xiaofanliang/EduPolicyEvaluation/blob/master/decisionmemo.pdf)
 <p align="center">
-    <img src="https://github.com/xiaofanliang/EduPolicyEvaluation/blob/master/img/evamap.png"/>
-    <img src="https://github.com/xiaofanliang/EduPolicyEvaluation/blob/master/img/evastats.png"/>
+    <img src="https://github.com/xiaofanliang/EduPolicyEvaluation/blob/master/img/evamap.png" width="600" height="800"/>
+    <img src="https://github.com/xiaofanliang/EduPolicyEvaluation/blob/master/img/evastats.png" width="700" height="600"/>
 </p>
